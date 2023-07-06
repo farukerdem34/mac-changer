@@ -13,5 +13,5 @@
 
 ### **Note:**
 
-**The above program uses sudo to execute the ifconfig command. Therefore, you'll need administrative privileges before running the program. Additionally, the program relies on the ifconfig command being available on your system.
+**The above program uses `sudo` to execute the `ifconfig` command. Therefore, you'll need administrative privileges before running the program. Additionally, the program relies on the `ifconfig` command being available on your system.
 **
